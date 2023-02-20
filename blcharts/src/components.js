@@ -1,4 +1,4 @@
-import UserDetail from "./components/ioc-platform/user-detail/user-detail.vue";
+import DiankyAuth from './components/diankyvt/dianky-auth/dianky-auth.vue'
 export default {
-  UserDetail,
-};
+  DiankyAuth
+}
